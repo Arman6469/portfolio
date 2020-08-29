@@ -1,0 +1,31 @@
+.main_div_cv {
+  width: 90.3vw;
+  margin-left: 9%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 90vh;
+  align-items: center;
+  background: #252628;
+}
+.table {
+  width: 80vw;
+}
+.cv_title_div{
+    width: 90.3vw;
+    margin-left: 9%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 10vh;
+  background: #252628;
+
+}
+.cv_title{
+    font-size: 3vw;
+    margin: 0;
+    text-align: center;
+    color: #c5c5c5;
+    margin-top: 1vh;
+
+}

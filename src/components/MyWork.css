@@ -1,0 +1,63 @@
+#my_work_main_div{
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+}
+.my_work{
+  height: 40vh;
+  width: 80%;
+  display: flex;
+  align-items: center;  
+  position: relative;
+}
+.my_work_image{
+  width: 65%;
+  height: 40vh;
+  border-top-left-radius: 2.5vw ;
+  border-bottom-left-radius: 2.5vw;
+  overflow: hidden;
+}
+.my_work_introduction{
+  width: 35%;
+  height: 44vh;
+  background-color: #252628;
+  border-radius: 2vw;
+  position: absolute;
+  left: 64%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.my_work_intro_title{
+  font-size: 2vw;
+  margin: 0;
+  margin-top: 3vw;
+  color: #c5c5c5;
+}
+.my_work_intro_description{
+  margin: 0;
+  font-size: 1.2vw;
+  max-width: 80%;
+  color: #c5c5c5;
+  text-align: center;
+  margin-top: 1vw;
+  line-height: 1.7em;
+}
+.my_work_intro_readmore_button{
+  width: 37%;
+  height: 15%;
+  background-color: #5b5c5e;
+  margin-top: 1vw;
+  display: flex;
+  color: black;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+  font-size: 1.3vw;
+  border-radius: 1.2vw;
+}
+.my_work_intro_readmore_button:hover{
+  background-color: #c5c5c5;
+  cursor: pointer;
+  transition: all 0.5s;
+}

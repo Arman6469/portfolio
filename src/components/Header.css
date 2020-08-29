@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+* {
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+.header {
+  width: 9vw;
+  background-color: #252628d5;
+  border-right: 0.015vw solid white;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  height: 100vh;
+}
+.navigation_link {
+  color: #c5c5c5;
+  font-size: 1.4vw;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 0;
+  transform: rotate(-90deg);
+  transition: all 0.7s;
+  padding: 0.5vw;
+}
+#secondary_links {
+  margin-top: 8vw;
+}
+a {
+  text-decoration: none;
+  cursor: default;
+}
+.navigation_link:hover {
+  transform: rotate(0deg);
+  transition: 0.7s;
+  color: white;
+  cursor: pointer;
+}
