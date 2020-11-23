@@ -13,8 +13,8 @@ export default function AppRouter() {
       <Switch>
         <Route exact path="/" component={About} />
         <Route path='/cv' component={CV} />
-        <Route path='/mywork' component={MyWork} />
-        <Route path='/mywork/:id' component={SinglePage} />
+        {/* <Route path='/mywork' component={MyWork} /> */}
+        {/* <Route path='/mywork/:id' component={SinglePage} /> */}
       </Switch>
     </BrowserRouter>
   );

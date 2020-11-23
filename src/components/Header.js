@@ -5,21 +5,19 @@ import { Link } from "react-router-dom";
 export default function Header() {
   return (
     <header className="header">
-      <Link to="/">
+      <Link className="navigation_link" to="/">
         {" "}
-        <p className="navigation_link">About me</p>
+        <p>About me</p>
       </Link>
-      <Link to="/cv">
-        <p className="navigation_link" id="secondary_links">
-          My CV
-        </p>
+      <Link className="navigation_link" to="/cv">
+        <p id="secondary_links">My CV</p>
       </Link>
-      <Link to="/mywork">
+      {/* <Link to="/mywork">
         {" "}
         <p className="navigation_link" id="secondary_links">
           My works
         </p>
-      </Link>
+      </Link> */}
     </header>
   );
 }

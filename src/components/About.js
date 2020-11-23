@@ -17,14 +17,14 @@ export default function About() {
         <div className="about_me_description_div">
           <h2 className="description_text">
             Hi, <br />
-            Im <span className="my_name">Arman,</span> <br />
+            I'm <span className="my_name">Arman,</span> <br />
             Full Stack Developer <br />
             and <br />
             Graphic Designer
           </h2>
           <div className="me_div">
             <p className="main_about_me">
-              Im 16 years old, web developer and graphic designer from Armenia
+              I'm 16 years old, web developer and graphic designer from Armenia
             </p>
             <p className="slogan_text">
               If a man has no purpose his life is just continuous death.

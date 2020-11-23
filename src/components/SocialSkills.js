@@ -17,6 +17,7 @@ export default function Skills() {
               <li className="social_skill_list_item">Communicative</li>
               <li className="social_skill_list_item">Leadership skills</li>
               <li className="social_skill_list_item">Purposeful</li>
+              <li className="social_skill_list_item">Responsible</li>
               <li className="social_skill_list_item">Hardworking</li>
             </ul>
           </div>

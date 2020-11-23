@@ -11,12 +11,13 @@ export default function Education() {
       >
         <h2 className="education_title">Education</h2>
         <p className="education_info">
-          I have studied at N 6 secondary school in Echmiadzin and graduated
-          with red cerificate. Since 2017 I'm attending TUMO center for creative
-          technologies and very soon I will graduate and TUMO.In TUMO I have
-          learnt programming, web design, game development, graphic design, Now
-          Im studying at N 5 high school in Echmiadzin. I am improving my
-          skills in web development in Global IT educational center.
+          I studied at N 6 secondary school in Ejmiatsin and graduated with red
+          cerificate. Since 2016 I'm attending TUMO Center For Creative
+          Technologies and very soon I will graduate also TUMO. In TUMO I have
+          learnt programming, web design, game development, graphic design and
+          robotx. Now I'm studying at N 5 high school in Ejmiatsin. I have
+          improved my skills in web development in Global IT educational center.
+          Now I'm learning Algorithms and Data Structures in Tech42 IT Center.
         </p>
         <p className="education_aphorism">
           Live as if you will die tomorrow, learn as if you'll live forever.

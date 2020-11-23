@@ -66,12 +66,16 @@
 .education_section {
   display: flex;
   justify-content: center;
-  height: 50vh;
   background-color: #252628;
+
 }
 .education_on_scroll_div {
   width: 70%;
   height: 100%;
+  padding-left: 2vw;
+  padding-right: 2vw;
+  padding-top: 3vw;
+  padding-bottom: 3vw;
   background-color: #91919125;
   display: flex;
   flex-direction: column;
@@ -113,11 +117,11 @@
 
 #skills_section {
   padding-top: 3vw;
-  height: 55vh;
 }
 .skills_list_div {
   display: flex;
   width: 70%;
+  height: 100%;
   justify-content: space-evenly;
 }
 .skill_list_header {
@@ -150,13 +154,12 @@
 
 #social_skills_section {
   padding-top: 3vw;
-  height: 52vh;
 }
 .social_skill_list_ul{
   padding: 0;
   padding-left: 10%;
-  line-height: 1.7em;
-  width: 11vw;
+  line-height: 1.8em;
+  width: 18vw;
   color: white;
 }
 .social_skill_list_item{
@@ -171,7 +174,6 @@
 #contact_section{
   padding-bottom: 3vw;
   padding-top: 3vw;
-  height: 65vh;
 }
  .contact_list_ul{
   padding-left: 0;

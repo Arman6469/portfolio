@@ -19,6 +19,7 @@ export default function Skills() {
                 <li className="skill_list_item">JavaScript</li>
                 <li className="skill_list_item">Jquery</li>
                 <li className="skill_list_item">React JS</li>
+                <li className="skill_list_item">React Native</li>
                 <li className="skill_list_item">Node JS</li>
               </ul>
             </div>

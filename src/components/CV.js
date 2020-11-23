@@ -18,33 +18,37 @@ export default function CV() {
           <tbody>
             <tr>
               <td>2006-2011</td>
-              <td>I have dabbled in a gymnastics </td>
+              <td>Gymnastics </td>
             </tr>
             <tr>
               <td>2009-2018</td>
-              <td>
-                I have studied at N6 secondary school in Ejmiatsin. Graduated
-                with red certificate
-              </td>
+              <td>N6 Secondary School in Ejmiatsin. Red certificate</td>
             </tr>
 
             <tr>
               <td>2011- till today</td>
-              <td>I am attending Karate Leader Club in Ejmiatsin</td>
+              <td>Karate Leader Club in Ejmiatsin</td>
             </tr>
             <tr>
               <td>2016 - till today</td>
-              <td>I am studying in TUMO center of creative technologies</td>
+              <td>TUMO Center of Creative Technologies</td>
             </tr>
             <tr>
               <td>2018 - till today</td>
-              <td>I am studying in N5 high school in Ejmiatsin</td>
+              <td>N5 High School in Ejmiatsin</td>
             </tr>
             <tr>
-              <td>02.2020 - till today </td>
+              <td>02.2020 - 06.2020 </td>
+              <td>Global IT Educational Center. Web development</td>
+            </tr>
+            <tr>
+              <td>07.2020 - 09.2020 </td>
+              <td>Internship in Cross of Armenian Unity</td>
+            </tr>
+            <tr>
+              <td>09.2020 - till today </td>
               <td>
-                I am improving my knowledges in web development in Global IT
-                educational center
+                 Tech42 IT Center. Algorithms and Data Structures
               </td>
             </tr>
           </tbody>
